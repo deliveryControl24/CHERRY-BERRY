@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-<!-- Index para Cherry Berry con Imagen del Dashboard -->
+8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cherry Berry — Sistema de Gestión Empresarial</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #8e44ad;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .hero {
+            text-align: center;
+            padding: 30px;
+            background-color: #f0f0f5;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .btn {
+            background-color: #8e44ad;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            font-weight: bold;
+            margin: 10px;
+        }
+        .btn:hover {
+            background-color: #732d91;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .feature {
+            flex: 1;
+            min-width: 200px;
+            margin: 10px;
+            padding: 15px;
+            background-color: #f0f0f5;
+            border-radius: 5px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #8e44ad;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🍒 Cherry Berry</h1>
+        <p>Sistema de Gestión Empresarial</p>
+    </header>
+    <div class="container">
+        <div class="hero">
+            <h2>Gestiona tu negocio de manera eficiente</h2>
+            <p>Cherry Berry es una herramienta completa para controlar ventas, inventario, clientes y finanzas, todo en un solo lugar.</p>
+            <a href="https://ejemplo.com/descargar-cherry-berry" class="btn">📥 Descargar Cherry Berry</a>
+            <p><img src="https://mistralaiblackforestprod.blob.core.windows.net/images/blackforest/ff6e/91eb/-244/b-42ee-97e7-12899080ed2e/image.jpg?se=2026-04-08T22%3A15%3A59Z&sp=r&sv=2026-02-06&sr=b&skoid=0c825961-8b13-4c3f-94c2-848b13b71a98&sktid=4fbc1168-2984-4d17-af19-ac5138c2378e&skt=2026-04-08T21%3A15%3A59Z&ske=2026-04-08T22%3A15%3A59Z&sks=b&skv=2026-02-06&sig=/SQU/S/78TFdtHdCfpBH4zo4t2DK4HnRZoiUwvi2O9I%3D" alt="Dashboard de Cherry Berry" style="max-width: 100%; height: auto; border-radius: 5px; margin-top: 20px;"></p>
+        </div>
+
+        <h3>Características principales</h3>
+        <div class="features">
+            <div class="feature">
+                <h4>📊 Dashboard</h4>
+                <p>Visualiza los indicadores clave de tu negocio en tiempo real.</p>
+            </div>
+            <div class="feature">
+                <h4>🛒 Punto de Venta</h4>
+                <p>Realiza ventas, maneja el carrito y ofrece opciones de crédito.</p>
+            </div>
+            <div class="feature">
+                <h4>📦 Inventario</h4>
+                <p>Controla tus productos, importa/exporta datos y recibe alertas de stock.</p>
+            </div>
+            <div class="feature">
+                <h4>👥 Clientes</h4>
+                <p>Gestiona la información de tus clientes y su historial de compras.</p>
+            </div>
+            <div class="feature">
+                <h4>💰 Cuentas por Cobrar</h4>
+                <p>Administra las cuentas pendientes y registra abonos automáticos.</p>
+            </div>
+            <div class="feature">
+                <h4>📈 Ingresos y Egresos</h4>
+                <p>Clasifica tus movimientos financieros por categorías.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2026 Cherry Berry. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
